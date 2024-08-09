@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ChatbotApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#1f317a</item>
+        <item name="colorPrimaryDark">#1f317a</item>
+
+    </style>
+
+    <style name="Theme.ChatbotApp" parent="Base.Theme.ChatbotApp" />
+</resources>
